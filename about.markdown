@@ -4,15 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![/uploads/86462539_2953841784638745_1681641504981909504_o.jpg](/uploads/86462539_2953841784638745_1681641504981909504_o.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Eu tenho experiência em arquitetura e desenvolvimento de micro serviços, utilizando tecnologias como **.NET Core 3.1**, **Node.js**, **ASP.NET Core MVC**, **Web Api Restfull**, **AWS**, **Azure**, Containers em **Docker **e orquestrações com **Kubernets**.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Sempre mantendo as aplicações com estruturas para evolução, utilizando buildingblocks. E também observability usando ferramentas atuais para monitoração de Loggings e Trancing; **Grafana**, **Jaegger **e **Octant**.
