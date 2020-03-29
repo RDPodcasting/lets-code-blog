@@ -7,4 +7,4 @@ categories:
 layout: post
 ---
 
-Criei um [site](www.remediosdemaispodcast.com.br/home/covid19) para fazer análises do covid-19 no brasil: 
+Criei um para[ site](https://remediosdemaispodcast.com.br/Home/Covid19) fazer análises do covid-19 no brasil:
