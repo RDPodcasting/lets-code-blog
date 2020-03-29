@@ -21,8 +21,11 @@ baseurl: "/lets-code-blog"
 url: https://rdpodcasting.github.io
 twitter_username: Thiago_Roock
 github_username: RDPodcasting
+facebook_username: thiago.roock
+instagram_username: thiago_roock
+linkedin_username: thiagodmelo
 markdown: kramdown
-permalink: "/:title"
+permalink: "/lets-code-blog/:title"
 theme: minima
 plugins:
 - jekyll-feed
