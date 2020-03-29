@@ -3,7 +3,7 @@ title: Sobre
 layout: page
 ---
 
-![Nessa releitura de Michelangelo, diferente do gênio renascentista, quero mostrar que nós humanos estamos criando nosso Deus; a IA, e nossa religião de dados será e já é nosso futuro.](./lets-code-blog/Uploads/about.jpg)
+![Nessa releitura de Michelangelo, diferente do gênio renascentista, quero mostrar que nós humanos estamos criando nosso Deus; a IA, e nossa religião de dados será e já é nosso futuro.](https://remediosdemaispodcast.com.br/Imagens/thiago.jpg)
 
 Eu tenho experiência em arquitetura e desenvolvimento de micro serviços, utilizando tecnologias como **.NET Core 3.1**, **Node.js**, **ASP.NET Core MVC**, **Web Api Restfull**, **AWS**, **Azure**, Containers em **Docker** e orquestrações com **Kubernets**.
 
