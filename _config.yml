@@ -25,7 +25,7 @@ facebook_username: thiago.roock
 instagram_username: thiago_roock
 linkedin_username: thiagodmelo
 markdown: kramdown
-permalink: "/lets-code-blog/:title"
+permalink: "/:title"
 theme: minima
 plugins:
 - jekyll-feed
